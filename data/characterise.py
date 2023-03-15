@@ -16,6 +16,13 @@ def get_csvs():
 # print(get_csvs())
 
 # for each csv file, read it in and output some statistics 
+# include:
+    # count of each class (show imbalanced dataset) - show models overfit to majority class in imbalanced dataset
+    # count of rows and columns (wavelengths)
+    # range of numbers 
+    # number of 0s 
+    # number of nulls
+    # any negative numbers?
 def characterise():
     csvs = get_csvs()
     for file in csvs:

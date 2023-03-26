@@ -1,11 +1,23 @@
 {
     "snv_balanced": {
-        "accuracy": 0.7797979797979798,
-        "neoplasia recall": 0.41148325358851673
+        "all": {
+            "accuracy": 0.7797979797979798,
+            "neoplasia recall": 0.41148325358851673
+        },
+        "top6": {
+            "accuracy": 0.8185185185185184,
+            "recall": 0.43859649122807015
+        }
     },
     "balanced": {
-        "accuracy": 0.7484848484848485,
-        "neoplasia recall": 0.43540669856459324
+        "all": {
+            "accuracy": 0.7888888888888889,
+            "neoplasia recall": 0.4258373205741627
+        },
+        "top6": {
+            "accuracy": 0.8185185185185184,
+            "recall": 0.5350877192982456
+        }
     },
     "my_balanced": {
         "all": {

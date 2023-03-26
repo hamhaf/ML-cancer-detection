@@ -2,5 +2,9 @@
     "snv_balanced": {
         "accuracy": 0.7797979797979798,
         "neoplasia recall": 0.41148325358851673
+    },
+    "balanced": {
+        "accuracy": 0.7484848484848485,
+        "neoplasia recall": 0.43540669856459324
     }
 }

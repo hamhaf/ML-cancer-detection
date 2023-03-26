@@ -1,12 +1,12 @@
 {
-    "snv_balanced": {
+    "my_balanced": {
         "all": {
-            "accuracy": 0.7797979797979798,
-            "neoplasia recall": 0.41148325358851673
+            "accuracy": 0.7957422324510932,
+            "neoplasia recall": 0.7057010785824345
         },
         "top6": {
-            "accuracy": 0.8185185185185184,
-            "recall": 0.43859649122807015
+            "accuracy": 0.8407172995780591,
+            "recall": 0.7542372881355933
         }
     },
     "balanced": {
@@ -19,14 +19,44 @@
             "recall": 0.5350877192982456
         }
     },
-    "my_balanced": {
+    "snv_balanced": {
         "all": {
-            "accuracy": 0.7957422324510932,
-            "neoplasia recall": 0.7057010785824345
+            "accuracy": 0.7797979797979798,
+            "neoplasia recall": 0.41148325358851673
         },
         "top6": {
-            "accuracy": 0.8407172995780591,
-            "recall": 0.7542372881355933
+            "accuracy": 0.8185185185185184,
+            "recall": 0.43859649122807015
+        }
+    },
+    "FS_my_balanced": {
+        "all": {
+            "accuracy": 0.7750287686996548,
+            "neoplasia recall": 0.6964560862865947
+        },
+        "top6": {
+            "accuracy": 0.8586497890295358,
+            "recall": 0.7994350282485877
+        }
+    },
+    "raw": {
+        "all": {
+            "accuracy": 0.7596948506039415,
+            "neoplasia recall": 0.5768025078369906
+        },
+        "top6": {
+            "accuracy": 0.8251748251748253,
+            "recall": 0.6494252873563219
+        }
+    },
+    "snv_raw": {
+        "all": {
+            "accuracy": 0.7298156389065479,
+            "neoplasia recall": 0.5407523510971788
+        },
+        "top6": {
+            "accuracy": 0.8065268065268065,
+            "recall": 0.6436781609195402
         }
     },
     "feature_select": {
@@ -47,26 +77,6 @@
         "top6": {
             "accuracy": 0.775058275058275,
             "recall": 0.6149425287356323
-        }
-    },
-    "snv_raw": {
-        "all": {
-            "accuracy": 0.7298156389065479,
-            "neoplasia recall": 0.5407523510971788
-        },
-        "top6": {
-            "accuracy": 0.8065268065268065,
-            "recall": 0.6436781609195402
-        }
-    },
-    "raw": {
-        "all": {
-            "accuracy": 0.7596948506039415,
-            "neoplasia recall": 0.5768025078369906
-        },
-        "top6": {
-            "accuracy": 0.8251748251748253,
-            "recall": 0.6494252873563219
         }
     }
 }

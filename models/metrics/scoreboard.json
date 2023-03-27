@@ -29,6 +29,16 @@
             "recall": 0.43859649122807015
         }
     },
+    "snv_my_balanced": {
+        "all": {
+            "accuracy": 0.7767548906789412,
+            "neoplasia recall": 0.7072419106317411
+        },
+        "top6": {
+            "accuracy": 0.830168776371308,
+            "recall": 0.7401129943502824
+        }
+    },
     "FS_my_balanced": {
         "all": {
             "accuracy": 0.7750287686996548,

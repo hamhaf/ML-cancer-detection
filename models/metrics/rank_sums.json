@@ -1,0 +1,156 @@
+{
+    "snv_FS_svmsmote": [
+        9,
+        {
+            "acc_rank": 3,
+            "rec_rank": 6
+        }
+    ],
+    "svmsmote": [
+        10,
+        {
+            "acc_rank": 2,
+            "rec_rank": 8
+        }
+    ],
+    "bordersmote": [
+        15,
+        {
+            "acc_rank": 10,
+            "rec_rank": 5
+        }
+    ],
+    "augmentedv2": [
+        17,
+        {
+            "acc_rank": 8,
+            "rec_rank": 9
+        }
+    ],
+    "kmeanssmote": [
+        18,
+        {
+            "acc_rank": 5,
+            "rec_rank": 13
+        }
+    ],
+    "augmentedv3": [
+        18,
+        {
+            "acc_rank": 15,
+            "rec_rank": 3
+        }
+    ],
+    "raw": [
+        19,
+        {
+            "acc_rank": 4,
+            "rec_rank": 15
+        }
+    ],
+    "snv_augmentedv3": [
+        19,
+        {
+            "acc_rank": 17,
+            "rec_rank": 2
+        }
+    ],
+    "snv_FS_balanced": [
+        22,
+        {
+            "acc_rank": 1,
+            "rec_rank": 21
+        }
+    ],
+    "augmentedv3_FS": [
+        22,
+        {
+            "acc_rank": 21,
+            "rec_rank": 1
+        }
+    ],
+    "augmented_FS": [
+        23,
+        {
+            "acc_rank": 19,
+            "rec_rank": 4
+        }
+    ],
+    "snv_svmsmote": [
+        24,
+        {
+            "acc_rank": 12,
+            "rec_rank": 12
+        }
+    ],
+    "adasynsmote": [
+        24,
+        {
+            "acc_rank": 13,
+            "rec_rank": 11
+        }
+    ],
+    "augmented": [
+        24,
+        {
+            "acc_rank": 14,
+            "rec_rank": 10
+        }
+    ],
+    "my_balancedv2": [
+        25,
+        {
+            "acc_rank": 18,
+            "rec_rank": 7
+        }
+    ],
+    "balanced": [
+        26,
+        {
+            "acc_rank": 6,
+            "rec_rank": 20
+        }
+    ],
+    "feature_select": [
+        27,
+        {
+            "acc_rank": 9,
+            "rec_rank": 18
+        }
+    ],
+    "smote": [
+        27,
+        {
+            "acc_rank": 11,
+            "rec_rank": 16
+        }
+    ],
+    "snv_balanced": [
+        29,
+        {
+            "acc_rank": 7,
+            "rec_rank": 22
+        }
+    ],
+    "snv_raw": [
+        33,
+        {
+            "acc_rank": 16,
+            "rec_rank": 17
+        }
+    ],
+    "augmentedv2_FS": [
+        34,
+        {
+            "acc_rank": 20,
+            "rec_rank": 14
+        }
+    ],
+    "feature_selectv2": [
+        41,
+        {
+            "acc_rank": 22,
+            "rec_rank": 19
+        }
+    ]
+}

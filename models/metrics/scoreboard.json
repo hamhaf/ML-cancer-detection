@@ -1,24 +1,4 @@
 {
-    "snv_FS_my_balanced": {
-        "all": {
-            "accuracy": 0.7974683544303798,
-            "neoplasia recall": 0.7473035439137132
-        },
-        "top6": {
-            "accuracy": 0.8618143459915611,
-            "recall": 0.7853107344632769
-        }
-    },
-    "my_balanced": {
-        "all": {
-            "accuracy": 0.7957422324510932,
-            "neoplasia recall": 0.7057010785824345
-        },
-        "top6": {
-            "accuracy": 0.8407172995780591,
-            "recall": 0.7542372881355933
-        }
-    },
     "balanced": {
         "all": {
             "accuracy": 0.7888888888888889,
@@ -47,26 +27,6 @@
         "top6": {
             "accuracy": 0.8185185185185184,
             "recall": 0.43859649122807015
-        }
-    },
-    "snv_my_balanced": {
-        "all": {
-            "accuracy": 0.7767548906789412,
-            "neoplasia recall": 0.7072419106317411
-        },
-        "top6": {
-            "accuracy": 0.830168776371308,
-            "recall": 0.7401129943502824
-        }
-    },
-    "FS_my_balanced": {
-        "all": {
-            "accuracy": 0.7750287686996548,
-            "neoplasia recall": 0.6964560862865947
-        },
-        "top6": {
-            "accuracy": 0.8586497890295358,
-            "recall": 0.7994350282485877
         }
     },
     "augmented": {
@@ -107,16 +67,6 @@
         "top6": {
             "accuracy": 0.8076923076923076,
             "recall": 0.7212643678160919
-        }
-    },
-    "FSv2_my_balanced": {
-        "all": {
-            "accuracy": 0.7520138089758344,
-            "neoplasia recall": 0.6887519260400615
-        },
-        "top6": {
-            "accuracy": 0.7964135021097046,
-            "recall": 0.6977401129943502
         }
     },
     "augmentedv2": {

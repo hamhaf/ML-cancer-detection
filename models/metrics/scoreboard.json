@@ -179,6 +179,16 @@
             "recall": 0.6752873563218391
         }
     },
+    "snv_svmsmote": {
+        "all": {
+            "accuracy": 0.7304513668150033,
+            "neoplasia recall": 0.6614420062695925
+        },
+        "top6": {
+            "accuracy": 0.8135198135198135,
+            "recall": 0.675287356321839
+        }
+    },
     "snv_FS_svmsmote": {
         "all": {
             "accuracy": 0.729815638906548,

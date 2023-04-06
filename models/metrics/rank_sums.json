@@ -1,153 +1,153 @@
 {
     "snv_FS_svmsmote": [
-        9,
+        21,
         {
             "acc_rank": 3,
             "rec_rank": 6
         }
     ],
-    "svmsmote": [
-        10,
-        {
-            "acc_rank": 2,
-            "rec_rank": 8
-        }
-    ],
-    "bordersmote": [
-        15,
-        {
-            "acc_rank": 10,
-            "rec_rank": 5
-        }
-    ],
-    "augmentedv2": [
-        17,
-        {
-            "acc_rank": 8,
-            "rec_rank": 9
-        }
-    ],
-    "kmeanssmote": [
-        18,
-        {
-            "acc_rank": 5,
-            "rec_rank": 13
-        }
-    ],
-    "augmentedv3": [
-        18,
-        {
-            "acc_rank": 15,
-            "rec_rank": 3
-        }
-    ],
-    "raw": [
-        19,
-        {
-            "acc_rank": 4,
-            "rec_rank": 15
-        }
-    ],
     "snv_augmentedv3": [
-        19,
+        23,
         {
             "acc_rank": 17,
             "rec_rank": 2
         }
     ],
-    "snv_FS_balanced": [
-        22,
+    "augmentedv3": [
+        24,
         {
-            "acc_rank": 1,
-            "rec_rank": 21
+            "acc_rank": 15,
+            "rec_rank": 3
         }
     ],
     "augmentedv3_FS": [
-        22,
+        24,
         {
             "acc_rank": 21,
             "rec_rank": 1
         }
     ],
+    "bordersmote": [
+        25,
+        {
+            "acc_rank": 10,
+            "rec_rank": 5
+        }
+    ],
+    "svmsmote": [
+        26,
+        {
+            "acc_rank": 2,
+            "rec_rank": 8
+        }
+    ],
     "augmented_FS": [
-        23,
+        31,
         {
             "acc_rank": 19,
             "rec_rank": 4
         }
     ],
-    "snv_svmsmote": [
-        24,
+    "augmentedv2": [
+        35,
         {
-            "acc_rank": 12,
-            "rec_rank": 12
-        }
-    ],
-    "adasynsmote": [
-        24,
-        {
-            "acc_rank": 13,
-            "rec_rank": 11
-        }
-    ],
-    "augmented": [
-        24,
-        {
-            "acc_rank": 14,
-            "rec_rank": 10
+            "acc_rank": 8,
+            "rec_rank": 9
         }
     ],
     "my_balancedv2": [
-        25,
+        39,
         {
             "acc_rank": 18,
             "rec_rank": 7
         }
     ],
-    "balanced": [
-        26,
+    "kmeanssmote": [
+        44,
         {
-            "acc_rank": 6,
-            "rec_rank": 20
+            "acc_rank": 5,
+            "rec_rank": 13
         }
     ],
-    "feature_select": [
-        27,
+    "augmented": [
+        44,
         {
-            "acc_rank": 9,
-            "rec_rank": 18
+            "acc_rank": 14,
+            "rec_rank": 10
+        }
+    ],
+    "adasynsmote": [
+        46,
+        {
+            "acc_rank": 13,
+            "rec_rank": 11
+        }
+    ],
+    "snv_svmsmote": [
+        48,
+        {
+            "acc_rank": 12,
+            "rec_rank": 12
+        }
+    ],
+    "raw": [
+        49,
+        {
+            "acc_rank": 4,
+            "rec_rank": 15
         }
     ],
     "smote": [
-        27,
+        59,
         {
             "acc_rank": 11,
             "rec_rank": 16
         }
     ],
-    "snv_balanced": [
-        29,
-        {
-            "acc_rank": 7,
-            "rec_rank": 22
-        }
-    ],
-    "snv_raw": [
-        33,
-        {
-            "acc_rank": 16,
-            "rec_rank": 17
-        }
-    ],
     "augmentedv2_FS": [
-        34,
+        62,
         {
             "acc_rank": 20,
             "rec_rank": 14
         }
     ],
+    "feature_select": [
+        63,
+        {
+            "acc_rank": 9,
+            "rec_rank": 18
+        }
+    ],
+    "snv_FS_balanced": [
+        64,
+        {
+            "acc_rank": 1,
+            "rec_rank": 21
+        }
+    ],
+    "balanced": [
+        66,
+        {
+            "acc_rank": 6,
+            "rec_rank": 20
+        }
+    ],
+    "snv_raw": [
+        67,
+        {
+            "acc_rank": 16,
+            "rec_rank": 17
+        }
+    ],
+    "snv_balanced": [
+        73,
+        {
+            "acc_rank": 7,
+            "rec_rank": 22
+        }
+    ],
     "feature_selectv2": [
-        41,
+        79,
         {
             "acc_rank": 22,
             "rec_rank": 19

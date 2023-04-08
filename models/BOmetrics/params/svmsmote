@@ -1,0 +1,69 @@
+{
+    "svmsmote": {
+        "CART": {
+            "accuracy": 0.857377461248429,
+            "params": {
+                "max_depth": 27,
+                "max_features": null
+            }
+        },
+        "GNB": {
+            "accuracy": 0.6874235441977377,
+            "params": {
+                "var_smoothing": 0.0015146060393098112
+            }
+        },
+        "kNN": {
+            "accuracy": 0.8975534143276078,
+            "params": {
+                "n_neighbors": 1
+            }
+        },
+        "SVM-RBF": {
+            "accuracy": 0.9066862170087976,
+            "params": {
+                "C": 3494.739761375521,
+                "gamma": "scale"
+            }
+        },
+        "SVM-Lin": {
+            "accuracy": 0.7938332635106828,
+            "params": {
+                "C": 192.5022956728735,
+                "gamma": "auto"
+            }
+        },
+        "SVM-Sig": {
+            "accuracy": 0.4758525345622119,
+            "params": {
+                "C": 0.10535295277984981,
+                "gamma": "auto"
+            }
+        },
+        "XGB": {
+            "accuracy": 0.8924172601591955,
+            "params": {
+                "max_depth": 6,
+                "n_estimators": 40
+            }
+        },
+        "ADA": {
+            "accuracy": 0.7211227482195224,
+            "params": {
+                "learning_rate": 1.6431255286281135,
+                "n_estimators": 1000
+            }
+        },
+        "RF": {
+            "accuracy": 0.9014662756598242,
+            "params": {
+                "max_depth": 19,
+                "max_features": 20,
+                "n_estimators": 259
+            }
+        },
+        "Ensemble": {
+            "accuracy": 0.8181818181818182
+        }
+    }
+}

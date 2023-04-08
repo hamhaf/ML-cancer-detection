@@ -29,16 +29,6 @@
             "recall": 0.7442528735632185
         }
     },
-    "snv_svmsmote": {
-        "all": {
-            "accuracy": 0.7468531468531469,
-            "neoplasia recall": 0.710344827586207
-        },
-        "top6": {
-            "accuracy": 0.8344988344988346,
-            "recall": 0.7126436781609197
-        }
-    },
     "svmsmote": {
         "all": {
             "accuracy": 0.7412587412587412,
@@ -47,6 +37,16 @@
         "top6": {
             "accuracy": 0.8193473193473193,
             "recall": 0.6839080459770116
+        }
+    },
+    "snv_svmsmote": {
+        "all": {
+            "accuracy": 0.737062937062937,
+            "neoplasia recall": 0.6982758620689655
+        },
+        "top6": {
+            "accuracy": 0.81002331002331,
+            "recall": 0.6896551724137931
         }
     },
     "snv_augmentedv3": {

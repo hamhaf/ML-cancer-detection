@@ -1,4 +1,24 @@
 {
+    "snv_FS_balanced": {
+        "all": {
+            "accuracy": 0.7866666666666666,
+            "neoplasia recall": 0.4894736842105264
+        },
+        "top6": {
+            "accuracy": 0.8277777777777776,
+            "recall": 0.5789473684210525
+        }
+    },
+    "augmented_FS": {
+        "all": {
+            "accuracy": 0.7524475524475523,
+            "neoplasia recall": 0.6775862068965518
+        },
+        "top6": {
+            "accuracy": 0.8181818181818182,
+            "recall": 0.706896551724138
+        }
+    },
     "augmentedv3": {
         "all": {
             "accuracy": 0.7469802924348379,

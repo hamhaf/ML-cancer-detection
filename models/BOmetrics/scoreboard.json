@@ -59,6 +59,16 @@
             "recall": 0.6839080459770116
         }
     },
+    "bordersmote": {
+        "all": {
+            "accuracy": 0.7293706293706294,
+            "neoplasia recall": 0.6862068965517241
+        },
+        "top6": {
+            "accuracy": 0.8240093240093239,
+            "recall": 0.7040229885057472
+        }
+    },
     "snv_augmentedv3": {
         "all": {
             "accuracy": 0.7253655435473618,

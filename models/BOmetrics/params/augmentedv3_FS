@@ -1,1 +1,69 @@
-{"augmentedv3_FS": {"CART": {"accuracy": 0.792, "params": {"max_depth": 4, "max_features": null}}, "GNB": {"accuracy": 0.6599999999999999, "params": {"var_smoothing": 2.2400352698102787e-07}}, "kNN": {"accuracy": 0.8266666666666665, "params": {"n_neighbors": 1}}, "SVM-RBF": {"accuracy": 0.8813333333333333, "params": {"C": 4999.999999999999, "gamma": "scale"}}, "SVM-Lin": {"accuracy": 0.8093333333333333, "params": {"C": 1000.0, "gamma": "scale"}}, "SVM-Sig": {"accuracy": 0.4746666666666666, "params": {"C": 0.0016331202762812677, "gamma": "scale"}}, "XGB": {"accuracy": 0.8266666666666665, "params": {"max_depth": 5, "n_estimators": 46}}, "ADA": {"accuracy": 0.72, "params": {"learning_rate": 0.10224582835490328, "n_estimators": 18}}, "RF": {"accuracy": 0.8426666666666668, "params": {"max_depth": 41, "max_features": 6, "n_estimators": 79}}, "Ensemble": {"accuracy": 0.8321678321678322}}}
+{
+    "augmentedv3_FS": {
+        "CART": {
+            "accuracy": 0.792,
+            "params": {
+                "max_depth": 4,
+                "max_features": null
+            }
+        },
+        "GNB": {
+            "accuracy": 0.6599999999999999,
+            "params": {
+                "var_smoothing": 2.2400352698102787e-7
+            }
+        },
+        "kNN": {
+            "accuracy": 0.8266666666666665,
+            "params": {
+                "n_neighbors": 1
+            }
+        },
+        "SVM-RBF": {
+            "accuracy": 0.8813333333333333,
+            "params": {
+                "C": 4999.999999999999,
+                "gamma": "scale"
+            }
+        },
+        "SVM-Lin": {
+            "accuracy": 0.8093333333333333,
+            "params": {
+                "C": 1000,
+                "gamma": "scale"
+            }
+        },
+        "SVM-Sig": {
+            "accuracy": 0.4746666666666666,
+            "params": {
+                "C": 0.0016331202762812677,
+                "gamma": "scale"
+            }
+        },
+        "XGB": {
+            "accuracy": 0.8266666666666665,
+            "params": {
+                "max_depth": 5,
+                "n_estimators": 46
+            }
+        },
+        "ADA": {
+            "accuracy": 0.72,
+            "params": {
+                "learning_rate": 0.10224582835490328,
+                "n_estimators": 18
+            }
+        },
+        "RF": {
+            "accuracy": 0.8426666666666668,
+            "params": {
+                "max_depth": 41,
+                "max_features": 6,
+                "n_estimators": 79
+            }
+        },
+        "Ensemble": {
+            "accuracy": 0.8321678321678322
+        }
+    }
+}

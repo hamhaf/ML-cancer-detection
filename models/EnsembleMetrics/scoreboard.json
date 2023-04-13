@@ -1,4 +1,14 @@
 {
+    "kmeanssmote": {
+        "all": {
+            "accuracy": 0.7615384615384616,
+            "neoplasia recall": 0.606896551724138
+        },
+        "top6": {
+            "accuracy": 0.8275058275058275,
+            "recall": 0.6810344827586207
+        }
+    },
     "augmentedv3": {
         "all": {
             "accuracy": 0.758041958041958,

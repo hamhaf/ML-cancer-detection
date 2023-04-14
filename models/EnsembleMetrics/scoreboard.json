@@ -1,4 +1,24 @@
 {
+    "snv_FS_balanced": {
+        "all": {
+            "accuracy": 0.7899999999999999,
+            "neoplasia recall": 0.45789473684210524
+        },
+        "top6": {
+            "accuracy": 0.8333333333333334,
+            "recall": 0.543859649122807
+        }
+    },
+    "raw": {
+        "all": {
+            "accuracy": 0.765034965034965,
+            "neoplasia recall": 0.5775862068965517
+        },
+        "top6": {
+            "accuracy": 0.8275058275058275,
+            "recall": 0.6551724137931035
+        }
+    },
     "kmeanssmote": {
         "all": {
             "accuracy": 0.7615384615384616,
@@ -49,6 +69,16 @@
             "recall": 0.7183908045977012
         }
     },
+    "adasynsmote": {
+        "all": {
+            "accuracy": 0.7384615384615385,
+            "neoplasia recall": 0.5793103448275863
+        },
+        "top6": {
+            "accuracy": 0.8181818181818182,
+            "recall": 0.6839080459770116
+        }
+    },
     "snv_svmsmote": {
         "all": {
             "accuracy": 0.7370629370629371,
@@ -77,6 +107,16 @@
         "top6": {
             "accuracy": 0.8181818181818182,
             "recall": 0.706896551724138
+        }
+    },
+    "feature_selectv2": {
+        "all": {
+            "accuracy": 0.7167832167832169,
+            "neoplasia recall": 0.4931034482758621
+        },
+        "top6": {
+            "accuracy": 0.7785547785547785,
+            "recall": 0.617816091954023
         }
     },
     "augmentedv3_FS": {

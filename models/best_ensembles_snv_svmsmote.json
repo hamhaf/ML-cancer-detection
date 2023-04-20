@@ -1,6 +1,0 @@
-{
-    "snv_svmsmote": {
-        "accuracy": 0.8531468531468531,
-        "estimators": "[DecisionTreeClassifier(max_features='log2', random_state=1), RandomForestClassifier(max_features=20, n_estimators=50, random_state=1), LogisticRegression(C=100, max_iter=1000, random_state=1), KNeighborsClassifier(n_jobs=-1, n_neighbors=1), SVC(C=1000, random_state=1)]"
-    }
-}

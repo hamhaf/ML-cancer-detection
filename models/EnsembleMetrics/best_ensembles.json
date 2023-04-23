@@ -50,5 +50,9 @@
     "feature_selectv2": {
         "accuracy": 0.8181818181818182,
         "estimators": "[RandomForestClassifier(max_features=5, n_estimators=300, random_state=1), LogisticRegression(C=1, max_iter=1000, random_state=1), KNeighborsClassifier(n_jobs=-1, n_neighbors=7), SVC(C=1000, random_state=1), SVC(C=1, kernel='linear', random_state=1)]"
+    },
+    "snv_FS_svmsmote": {
+        "accuracy": 0.8671328671328671,
+        "estimators": "[DecisionTreeClassifier(max_features='log2', random_state=1), RandomForestClassifier(max_features=20, n_estimators=50, random_state=1), SVC(C=1000, random_state=1), SVC(C=0.1, kernel='sigmoid', random_state=1), XGBClassifier(base_score=None, booster=None, callbacks=None,\n              colsample_bylevel=None, colsample_bynode=None,\n              colsample_bytree=None, early_stopping_rounds=None,\n              enable_categorical=False, eval_metric=None, feature_types=None,\n              gamma=None, gpu_id=None, grow_policy=None, importance_type=None,\n              interaction_constraints=None, learning_rate=None, max_bin=None,\n              max_cat_threshold=None, max_cat_to_onehot=None,\n              max_delta_step=None, max_depth=5, max_leaves=None,\n              min_child_weight=None, missing=nan, monotone_constraints=None,\n              n_estimators=500, n_jobs=None, num_parallel_tree=None,\n              objective='multi:softprob', predictor=None, ...)]"
     }
 }

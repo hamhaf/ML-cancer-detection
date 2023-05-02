@@ -11,6 +11,6 @@ In the label set, 1 means squamous tissue, 2 means non-dysplastic Barrett's oeso
 3. pip install the requirements file 
     "pip install -r requirements.txt"
 
-4. to obtain the final model, run models/models.ipynb with FEATURE_SELECT = True and AUGMENTEDv3 = True
+4. to obtain the final model, run models/models.ipynb with only FEATURE_SELECT = True and AUGMENTEDv3 = True in code block [2]
 
 5. observe metrics in "metrics/augmentedv3_dataset/model_metrics_accuracy_ensemble_FS.json"
